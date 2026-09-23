@@ -1,4 +1,4 @@
-# Amazon-Sales-PowerBI-Dashboar
+# Amazon-Sales-PowerBI-Dashboard
 
 ##  Overview
 
