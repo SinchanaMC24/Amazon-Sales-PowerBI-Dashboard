@@ -1,12 +1,12 @@
 # Amazon-Sales-PowerBI-Dashboar
 
-## 📌 Overview
+##  Overview
 
 This repository showcases an interactive **Amazon Sales Dashboard built using Microsoft Power BI**. The dashboard was created using an existing Amazon sales dataset to practice and demonstrate data visualization, business intelligence, and dashboard development skills.
 
 The dashboard provides a visual overview of sales performance across products, categories, regions, payment methods, and time.
 
-## 🎯 Objective
+##  Objective
 
 The objective of this dashboard is to transform raw sales data into an interactive and easy-to-understand business intelligence report that helps users explore:
 
@@ -18,14 +18,14 @@ The objective of this dashboard is to transform raw sales data into an interacti
 * Payment method distribution
 * Order and quantity metrics
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Microsoft Power BI**
 * **Power Query** – Data cleaning and transformation
 * **DAX** – Measures and calculations
 * **CSV Dataset** – Source data
 
-## 📊 Dashboard KPIs
+##  Dashboard KPIs
 
 The dashboard includes the following key performance indicators:
 
@@ -35,7 +35,7 @@ The dashboard includes the following key performance indicators:
 * **Average Order Value**
 * **Average Rating**
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### Sales Analysis
 
@@ -61,11 +61,11 @@ Users can interact with the dashboard using:
 * Customer Region
 * Order Date
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Amazon Sales Dashboard](Dashboard_Screenshot.png)
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File                          | Description                            |
 | ----------------------------- | -------------------------------------- |
@@ -73,7 +73,7 @@ Users can interact with the dashboard using:
 | `Amazon_Sales_Dataset.csv`    | Dataset used for dashboard development |
 | `Dashboard_Screenshot.png`    | Dashboard preview image                |
 
-## 🔍 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 * Data visualization
 * Data cleaning and transformation
@@ -84,11 +84,11 @@ Users can interact with the dashboard using:
 * Business-oriented data analysis
 * Data storytelling
 
-## 📌 Note
+##  Note
 
 This dashboard was developed as a **Power BI analytics and visualization exercise using an existing sales dataset**. The dataset is not owned or created by the author.
 
-## 👩‍💻 Author
+##  Author
 
 **Sinchana M C**
 
